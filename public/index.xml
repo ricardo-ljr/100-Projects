@@ -1,9 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>100 Projects</title>
-        <link>http://100projects.io/</link>
-        <description>In order to be irreplaceable, one must always be different</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
-            <atom:link href="http://100projects.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
-</rss>

@@ -1,0 +1,13 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://100projects.io/</loc><lastmod>2022-10-10T21:44:54-07:00</lastmod><priority>1</priority></url><url>
+            <loc>http://100projects.io/blog/</loc><lastmod>2022-10-10T21:44:54-07:00</lastmod></url><url>
+            <loc>http://100projects.io/blog/my-first-blog/</loc><lastmod>2022-10-10T21:44:54-07:00</lastmod></url><url>
+            <loc>http://100projects.io/categories/</loc><lastmod>2022-10-10T21:25:08-07:00</lastmod></url><url>
+            <loc>http://100projects.io/categories/projects/</loc><lastmod>2022-10-10T21:25:08-07:00</lastmod></url><url>
+            <loc>http://100projects.io/posts/</loc><lastmod>2022-10-10T20:58:02-07:00</lastmod></url><url>
+            <loc>http://100projects.io/posts/my-first-post/</loc><lastmod>2022-10-10T20:58:02-07:00</lastmod></url><url>
+            <loc>http://100projects.io/categories/</loc></url><url>
+            <loc>http://100projects.io/tags/</loc></url></urlset>

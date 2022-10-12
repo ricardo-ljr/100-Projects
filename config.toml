@@ -1,6 +1,6 @@
 baseURL = 'http://100projects.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '100 Projects'
 theme = "LoveIt"
 
 [module]
